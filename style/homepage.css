@@ -1,0 +1,158 @@
+/****Navbar****/
+.navbar{
+    background-color: #4c549c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar .image img{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.navbar .title {
+    color: white;
+}
+
+/****body****/
+body {
+    margin: 0;
+}
+
+.container--principal{
+    background-color:#9ca4cc;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+.container--principal h2{
+    font-size: 60px;
+    margin: 10px;
+}
+
+.container--principal h3{
+    font-size: 30px;
+    margin: 10px;
+}
+
+.container--principal h1{
+    font-size: 50px;
+    margin: 10px;
+}
+
+.container--principal .container--principal--freezer1{
+    background-color: lightcoral;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid red;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+.container--principal .container--principal--freezer2{
+    background-color: lightgreen;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+.container--principal .container--principal--freezer3{
+    background-color: lightcoral;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid red;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+.container--principal .container--principal--freezer4{
+    background-color: lightgreen;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+.container--principal .container--principal--freezer5{
+    background-color: lightgreen;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+.container--principal .container--principal--banho1{
+    background-color: lightgreen;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 10px;
+}
+
+.container--principal .container--principal--banho2{
+    background-color: lightgreen;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 10px;
+}
+
+.container--principal .container--principal--agitador{
+    background-color: lightgreen;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid green;
+    border-radius: 90px;
+    margin: 30px;
+}
+
+/****footer****/
+footer{
+    background-color: #4c549c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 60px;
+    color: white;
+    font-size: 20px;
+}
