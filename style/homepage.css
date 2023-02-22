@@ -56,19 +56,19 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid red;
+    border: 5px solid rgb(109, 32, 32);
     border-radius: 90px;
     margin: 30px;
 }
 
 .container--principal .container--principal--freezer2{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 30px;
 }
@@ -80,67 +80,67 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid red;
+    border: 5px solid rgb(109, 32, 32);
     border-radius: 90px;
     margin: 30px;
 }
 
 .container--principal .container--principal--freezer4{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 30px;
 }
 
 .container--principal .container--principal--freezer5{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 15px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 30px;
 }
 
 .container--principal .container--principal--banho1{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 10px;
 }
 
 .container--principal .container--principal--banho2{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 10px;
 }
 
 .container--principal .container--principal--agitador{
-    background-color: lightgreen;
+    background-color: rgb(98, 182, 98);
     padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 5px solid green;
+    border: 5px solid rgb(50, 104, 46);
     border-radius: 90px;
     margin: 30px;
 }
